@@ -8,8 +8,8 @@ At Fabeldyr Studios, our mission is to craft engaging stories and gameplay that 
 
 ## Current Project
 
-### Shadow Revenant
-**Shadow Revenant** is our current project, a 3D action-adventure game with RPG elements. Players will descend through a perilous dungeon to level up, obtain gold, and collect valuable items. The ultimate goal is to confront the Mad Wizard, Dragon, or Demon who owns the randomly generated dungeon, gaining fortune, renown, or overthrowing the evil that awaits at the bottom.
+### Nightguard
+**Nightguard** is our current project, a 3D action-adventure game with RPG elements. Players will descend through a perilous dungeon to level up, obtain gold, and collect valuable items. The ultimate goal is to confront the Mad Wizard, Dragon, or Demon who owns the randomly generated dungeon, gaining fortune, renown, or overthrowing the evil that awaits at the bottom.
 
 #### Features
 - **Singleplayer Mode**: Explore procedurally generated dungeons, level up your character, and engage in dynamic combat.
